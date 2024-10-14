@@ -34,7 +34,6 @@ The data structure DUO looks like below:
 
 ```text
 # DUO
-
 dataset
 ├── images
 │   ├── train
